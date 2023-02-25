@@ -1,0 +1,23 @@
+body {}
+h1 {}
+h2 {}
+
+img {
+	max-width: 100%;
+}
+
+figure {
+	margin: 0;
+}
+
+html{ 
+	background-color: pink;
+}
+figure {
+	background: black;
+	border-radius: 5px;
+	color: white;
+	margin: 0 0 25px 0;
+	padding: 10px;
+	text-align: center;
+}
